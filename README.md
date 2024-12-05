@@ -1,6 +1,6 @@
 # escape_the_room
 Group project
-
+Code for this project is stored here: https://github.com/michaelganci/escape_the_room/blob/main/Haunted%20House.cpp
 
 // Remarks used to define what I need for the game.
 
