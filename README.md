@@ -4,7 +4,7 @@ Group project
 
 // Remarks used to define what I need for the game.
 
-// Create a puzzle game that requires the user to solve a single puzzle to escape the room.\n
+// Create a puzzle game that requires the user to solve a single puzzle to escape the room.
 // need a struct called "Item"
 // need a struct for the NPC called "Character"
 // need a struct called "Room"
