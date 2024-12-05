@@ -27,3 +27,9 @@ string-header file for strings
 vector-provides a container class for specific data types
 ctime-functions to work with data and time
 cstdlib-has functions for conversions
+
+
+
+Created test branch to upload fixes to original code.
+
+Merged branches.
