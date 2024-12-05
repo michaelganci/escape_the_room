@@ -1,9 +1,10 @@
 # escape_the_room
 Group project
 
+
 // Remarks used to define what I need for the game.
 
-// Create a puzzle game that requires the user to solve a single puzzle to escape the room.
+// Create a puzzle game that requires the user to solve a single puzzle to escape the room.\n
 // need a struct called "Item"
 // need a struct for the NPC called "Character"
 // need a struct called "Room"
