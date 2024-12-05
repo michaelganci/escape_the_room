@@ -82,7 +82,7 @@ if (answer == correctAnswer) {
 } else {
 	cout << "Incorrect solution. Try again.\n";
 	return false;
-	
+}
 }
 	};
 	
@@ -110,9 +110,9 @@ Character oldWoman("\nOld Woman", "NPC", "The clue is hidden in plain sight... y
 
 Room hauntedRoom("A dark room filled with old furniture. There are cobwebs everywhere and you can feel the wind from outside.  There must be cracks in the walls.\nAn old woman and a ghostly figure stand in the middle of the room.");
 
-hauntedRoom.items.push_back("Old Painting", "\nAn eerie painting of a woman with a blank stare. Her eyes seem to follow you."));
-hauntedRoom.items.push_back("Mysterious Book", "\nThe book '101 Dalmatians' rests on the table. It seems out of place in this spooky room. \nThe book is open to chapter three."));
-hauntedRoom.items.push_back("Strange Lockbox", "\nA lockbox with a keypad. There are four digits to input."));
+hauntedRoom.items.push_back(Item("Old Painting", "\nAn eerie painting of a woman with a blank stare. Her eyes seem to follow you."));
+hauntedRoom.items.push_back(Item("Mysterious Book", "\nThe book '101 Dalmatians' rests on the table. It seems out of place in this spooky room. \nThe book is open to chapter three."));
+hauntedRoom.items.push_back(Item("Strange Lockbox", "\nA lockbox with a keypad. There are four digits to input."));
 
 hauntedRoom.npcs.push_back(ghost);
 hauntedRoom.npcs.push_back(oldWoman);
